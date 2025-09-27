@@ -51,4 +51,6 @@ churn-prediction-model/
   - Model training (Random Forest, Logistic Regression)
   - Performance evaluation
   - Business insights and recommendations
+ 
+  - PowerPoint presentation included for stakeholder review.
 
